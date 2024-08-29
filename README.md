@@ -1,6 +1,10 @@
 Name: MUCHALA LAKSHMI VARDHAN REDDY Company: CODTECH IT SOLUTIONS ID: CT08DS7410 Domain: VLSI Duration: AUGUST30th, 2024 to SEPTEMBER 30th, 2024. Mentor: Neela Santhosh Kumar
+
+
 Project Overview:
 Designing and Testing a Finite State Machine (FSM) in Verilog using ModelSim
+
+
 Objective:
 The primary objective of this project is to design, implement, simulate, and verify a Finite State Machine (FSM) using Verilog and ModelSim. The project aims to provide a practical understanding of FSM design in digital systems and demonstrate the use of hardware description languages (HDL) and simulation tools in the VLSI design process.
 
